@@ -1,6 +1,6 @@
 # Avalon
 [![Issue Stats](http://issuestats.com/github/RubyLouvre/avalon/badge/pr?style=flat)](http://issuestats.com/github/RubyLouvre/avalon)
-[![Issue Stats](http://issuestats.com/github/RubyLouvre/avalon/badge/issue?style=flat)](http://issuestats.com/github/RubyLouvre/avalon)
+[![Issue Stats](http://issuestats.com/github/RubyLouvre/avalon/badge/issue?style=flat)](http://issuestats.com/github/RubyLouvre/avalon)ffff
 
 A lightweight,high-performance and easy-to-learn JavaScript MVVM framework
 
